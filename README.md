@@ -1,4 +1,4 @@
-![logo](Navy Blue Geometric Technology LinkedIn Banner.png)
+![logo](https://github.com/Kritarth9969/kritarth9969/blob/main/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm kritarth Vala</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
