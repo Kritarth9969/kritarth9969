@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm kritarth Vala</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://lottiefiles.com/free-animation/site-analytics-dashboard-site-stats-concept-illustration-business-analytics-CzeY4MKRxZ">
+<img align="right" alt="coding" width="400" src="data-analytics-animation_8754532">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kritarth9969&label=Profile%20views&color=0e75b6&style=flat" alt="kritarth9969" /> </p>
 
