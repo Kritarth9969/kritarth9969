@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm kritarth Vala</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 
-<img align="right" alt="coding" width="400" src="data-analytics-animation_8754532">
+<img align="right" alt="coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTZjMDliOTUydWduaGtsMHJmdnF1MTNyenVkZHV5eHYxMmJtbXBmcXNzZWozZXh5aiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3oKIPEqDGUULpEU0aQ/200w.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kritarth9969&label=Profile%20views&color=0e75b6&style=flat" alt="kritarth9969" /> </p>
 
